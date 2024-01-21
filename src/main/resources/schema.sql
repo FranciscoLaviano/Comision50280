@@ -28,4 +28,4 @@ CREATE TABLE grupo7(
    edad INT,
    nota FLOAT
 
-)
+);
